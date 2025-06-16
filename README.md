@@ -2,7 +2,7 @@
 
 ![Cutebes Gameplay Screenshot]
 ![cutebes](https://github.com/user-attachments/assets/4bbecff2-e712-4c57-a929-e34261c9eb2e)
-**Mainkan langsung lewat link ini :** http://prcllahelga.itch.io/cutebeshttp://prcllahelga.itch.io/cutebes
+**Mainkan langsung lewat link ini :** http://prcllahelga.itch.io/cutebes
 
 
 ## Tentang Cutebes
